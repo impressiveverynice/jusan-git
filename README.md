@@ -4,6 +4,7 @@ username.sh is displaying my name and surname "Ruslan Gammassov"
 
 
 
+
 # stepik-id-printer(h1)
 Это проект для вывода моего персонального идентификатора на *образовательной платформе* ```stepik.org.```
 ## Возможности(h2)
